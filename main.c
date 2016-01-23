@@ -6,5 +6,6 @@ void main(int ac, char **av)
 {
 
   printf("Je t'aime doudoune gros bisous !\n");
+  printf("yop us !\n");
   return;
 }
